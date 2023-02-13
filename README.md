@@ -1,2 +1,2 @@
-# basicAPI for noting perfoming CRUD operations
-PhpAdmin db, C#, MVC architecture
+Rest API Todo list
+MVC architecture
